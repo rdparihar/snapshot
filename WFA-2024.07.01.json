@@ -1,0 +1,14 @@
+[
+  {
+    "name": "eis-svc-profile",
+    "version": "M.2024.07.01.1"
+  },
+  {
+    "name": "eis-svc-portal",
+    "version": "M.2024.07.02.1"
+  },
+  {
+    "name": "eis-svc-viz",
+    "version": "M.2024.06.01.3"
+  }
+]
